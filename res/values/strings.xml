@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Xml Feed Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="connection_error">Network Connection Error</string>
+    <string name="xml_error">XML Parsing Error</string>
+
+</resources>
